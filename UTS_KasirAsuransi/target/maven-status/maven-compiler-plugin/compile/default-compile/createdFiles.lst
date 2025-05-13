@@ -1,0 +1,6 @@
+com\mycompany\uts_kasirasuransi\Polis.class
+com\mycompany\uts_kasirasuransi\DatabaseConnection.class
+com\mycompany\uts_kasirasuransi\Klaim.class
+com\mycompany\uts_kasirasuransi\Nasabah.class
+com\mycompany\uts_kasirasuransi\Asuransi.class
+com\mycompany\uts_kasirasuransi\UTS_KasirAsuransi.class
